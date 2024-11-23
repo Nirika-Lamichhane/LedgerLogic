@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-3990955500a34fd2aac3.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "LedgerLogic",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "LedgerLogic::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LedgerLogic-Debug-f0c862babaf09ed142cf.json",
+					"name" : "LedgerLogic",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "LedgerLogic_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LedgerLogic_autogen-Debug-787c00662ae4e4ac8b79.json",
+					"name" : "LedgerLogic_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "LedgerLogic_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LedgerLogic_autogen_timestamp_deps-Debug-c720b685cdaac43d7b05.json",
+					"name" : "LedgerLogic_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/ACER/OneDrive/Desktop/windows_project/Ledger-Logic-main/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug",
+		"source" : "C:/Users/ACER/OneDrive/Desktop/windows_project/Ledger-Logic-main"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
